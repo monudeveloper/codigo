@@ -1,0 +1,64 @@
+@media (max-width: 927px) {
+    .para-1-txt {
+      display: none;
+    }
+    .gru-txt,
+    .drone-txt,
+    .skout-txt,
+    .fly-txt,
+    .eme-txt,
+    .golf-txt {
+      top: 9%;
+    }
+  }
+  
+  @media (max-width: 865px) {
+    .gru-txt,
+    .drone-txt,
+    .skout-txt,
+    .fly-txt,
+    .eme-txt,
+    .golf-txt {
+      top: 9%;
+    }
+  
+    .app-img {
+      width: 48%;
+      height: 108px;
+    }
+  }
+  @media (max-width: 700px) {
+    .teg p {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .app-img {
+      width: 100%;
+      height: 91px;
+      padding: 7px;
+    }
+    .rotate-project-txt {
+      display: none;
+    }
+    .social-icon {
+      padding: 150px 29px;
+    }
+    .content {
+      width: 36%;
+      height: 198px;
+    }
+    .teg {
+      padding: 35px 10px 25px 20px;
+    }
+    .content-1-txt,
+    .content-2-txt,
+    .content-3-txt,
+    .content-4-txt,
+    .content-5-txt,
+    .content-6-txt {
+      display: none;
+    }
+  }
+  
